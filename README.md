@@ -5,8 +5,6 @@
 
 - 🎓 I am currently studying for Bachelor and Masters at **[Telkom University](https://telkomuniversity.ac.id/)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://akbaraffaruk.tech/)**
-
 - 📫 How to reach me **akbaraffaruk13@gmail.com**
 
 - ⚡ My hobbies is **watch movies and listening to metal music.**

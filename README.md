@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akbar Affaruk</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akbar Affaruk Khuzaimi Ahmadani</h1>
 <h3 align="center">I'm a Mid-Level Developer Who is Constantly Learning to Develop Skills.</h3>
 
 ## 🙋‍♂️ **[About Me](https://akbaraffaruk.tech/)**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akbar Affaruk Khuzaimi Ahmadani</h1>
 <h3 align="center">I'm a Mid-Level Developer Who is Constantly Learning to Develop Skills.</h3>
 
-## 🙋‍♂️ **[About Me](https://akbaraffaruk.tech/)**
+## 🙋‍♂️ **[About Me](http://akbaraffaruk.my.id/)**
 
 - 🎓 I am currently studying for Bachelor and Masters at **[Telkom University](https://telkomuniversity.ac.id/)**
 

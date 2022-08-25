@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ **[About Me](https://www.akbaraffaruk.my.id/)**
 
-- 🎓 I am currently studying for Bachelor and Masters at **[Telkom University](https://telkomuniversity.ac.id/)**
+- 🎓 I am currently studying for Masters Degree at **[Telkom University](https://telkomuniversity.ac.id/)**
 
 - 📫 How to reach me **akbaraffaruk13@gmail.com**
 

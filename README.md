@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 I am currently studying for Masters Degree at Telkom University<br><br>📫 How to reach me akbaraffaruk13@gmail.com<br><br>⚡ My hobbies is watch movies and listening to metal music.</p>
+<p align="left">🎓 I am a graduate of Master of Information Systems education at Telkom University.<br><br>📫 How to reach me akbaraffaruk13@gmail.com<br><br>⚡ My hobbies is watch movies and listening to metal music.</p>
 
 ###
 

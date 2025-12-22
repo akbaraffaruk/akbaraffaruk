@@ -7,12 +7,20 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" />
 
-I'm a backend web developer with a Master's degree in Information Systems from Telkom University. I specialize in building robust and scalable backend systems, RESTful APIs, and data-centric applications for organizations and businesses.
+I am a backend developer with a **Master's in Information Systems from Telkom University**. With over 4 years of experience, I specialize in architecting robust backend systems, high-performance RESTful APIs, and scalable database structures.
 
-💡 I focus on clean code, efficient database design, and reliable system integration.  
-💼 I work full-time at a cooperative and freelance on web-based projects.  
-⚙️ Tech Stack: Laravel • Node.js • Supabase • PostgreSQL • Express.js • MySQL  
-📫 Reach me: **akbaraffaruk13@gmail.com**
+Currently, I focus on writing **clean, maintainable code** and optimizing server performance for business efficiency.
+
+---
+
+### 🧐 What I Do
+* **Backend Engineering:** Building secure and scalable APIs using Laravel & Node.js.
+* **Database Architecture:** Designing efficient schemas for complex data relationships.
+* **System Optimization:** Refactoring legacy code and optimizing query performance.
+
+### 💼 Career & Work
+* **Current Role:** IT Staff at KSPPS Citra Artha Mandiri (Focusing on System Integration & Efficiency).
+* **Freelance:** Open for backend development projects.
 
 ---
 
